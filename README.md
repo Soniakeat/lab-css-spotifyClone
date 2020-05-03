@@ -2,7 +2,7 @@
 
 # CSS | Spotify Clone
 
-## Introduction
+## Introduction:
 
 Everyone likes music, right? Odds are if you do, you've heard of Spotify. Today we're going to copy an older (and simpler) version of the Spotify home page:
 
